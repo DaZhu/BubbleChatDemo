@@ -11,7 +11,7 @@
 #endif
 
 
-// CBubbleChatDemoApp
+// CBubbleChatDemoAppaaaaaaaaaaaa
 
 BEGIN_MESSAGE_MAP(CBubbleChatDemoApp, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
