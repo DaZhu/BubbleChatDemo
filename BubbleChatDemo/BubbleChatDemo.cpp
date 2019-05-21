@@ -19,7 +19,7 @@ END_MESSAGE_MAP()
 
 
 // CBubbleChatDemoApp construction
-
+  
 CBubbleChatDemoApp::CBubbleChatDemoApp()
 {
 	// support Restart Manager
